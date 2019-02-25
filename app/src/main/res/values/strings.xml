@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Oylama</string>
+
+
+    <string name="action_settings">Ayarlar</string>
+
+    <string-array name="puanArray">
+        <item name="kritier1">1</item>
+        <item name="kritier2">2</item>
+        <item name="kritier3">3</item>
+        <item name="kritier4">4</item>
+        <item name="kritier4">5</item>
+        <item name="kritier4">6</item>
+        <item name="kritier4">7</item>
+        <item name="kritier4">8</item>
+        <item name="kritier4">9</item>
+        <item name="kritier4">10</item>
+
+    </string-array>
+
+
+</resources>
